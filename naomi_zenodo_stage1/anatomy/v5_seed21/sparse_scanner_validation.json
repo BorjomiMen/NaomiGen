@@ -1,0 +1,12 @@
+{
+  "probe_relative_max_errors": [
+    9.642267286835704e-07,
+    0.0,
+    2.9187663130869623e-07,
+    5.726442964260059e-07,
+    1.0016275382440654e-06
+  ],
+  "passed": true,
+  "method": "Sparse evaluation of original NAOMi linear optics, independently compared with five original scan_volume frames",
+  "seconds": 1.7697234000079334
+}

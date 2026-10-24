@@ -1,0 +1,9 @@
+__pycache__/
+reference/*.tif
+!reference/highSNR_sample.tif
+anatomy/*
+!anatomy/v5_seed21/
+!anatomy/v5_seed22/
+!anatomy/v5_seed23/
+generated/*
+!generated/zenodo_stage1_final/

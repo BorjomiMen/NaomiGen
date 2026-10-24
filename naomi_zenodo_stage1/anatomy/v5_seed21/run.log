@@ -1,0 +1,21 @@
+Stage1 image anatomy: v5, seed21
+Setting up volume...done.
+Finding interior points...........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................done.
+Morphology 39.15s, actual K=600
+Calculating mask layer...
+Propagating through 9 locations:
+Propagation 1 finished (2.338964 s)
+Propagation 2 finished (2.296650 s)
+Propagation 3 finished (2.284578 s)
+Propagation 4 finished (2.327187 s)
+Propagation 5 finished (2.273642 s)
+Propagation 6 finished (2.311130 s)
+Propagation 7 finished (2.326706 s)
+Propagation 8 finished (2.333500 s)
+Propagation 9 finished (2.316964 s)
+done.
+Original optical propagation 30.20s
+Initializing the base volume...base initialized.
+Scanning........done.
+Original-scanner probes 1.68s
+DONE C:\Users\User\Documents\ChatGPT\Кемп Рыбы\naomi_zenodo_stage1\anatomy\v5_seed21 (71.3s)

@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "anatomy_tag": "v5",
+  "crop_size_px": 64,
+  "pixel_size_um": 0.873,
+  "volume_um": [
+    80,
+    80,
+    50
+  ],
+  "cell_slab_um": 20,
+  "neurons_3d": 600,
+  "cell_radius_um": 2.2,
+  "nucleus_radius_um": 1.5,
+  "min_distance_um": 5.0,
+  "nuclear_label": 0,
+  "nuclear_fill_fraction": 0.1,
+  "native_pixel_um": 1.0,
+  "additional_blur_px": 0.35,
+  "labelled_fraction": 1.0,
+  "expression_log_sigma": 0.15,
+  "footprint_reference_peak": 36.73735809326172,
+  "camera_offset_adu": 17800.0,
+  "shot_gain_adu": 1074.5860693597106,
+  "effective_gaussian_sigma_adu": 54.52004047254152,
+  "saturation_adu": 32767,
+  "gain_adu": 5319.845252302224,
+  "background_adu": 2729.0422967662853,
+  "mask_relative_threshold": 0.5,
+  "mask_min_peak_adu": 2000.0,
+  "mask_min_area_px": 5,
+  "mask_max_area_px": 60,
+  "fit_source_rois": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "fit_source_windows": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "fit_anatomy_seed": 21,
+  "scope": "Dense local brain patches from one Zenodo recording. Approximate image morphology, not recovered 3D biology.",
+  "independence": "Images from the same anatomy seed share geometry; split datasets by anatomy seed.",
+  "calibration_target": {
+    "mean": 23130.19482421875,
+    "std": 3123.5686677298063,
+    "p10": 19435.5,
+    "p50": 22738.75,
+    "p90": 27411.0,
+    "saturation_fraction": 0.008056640625,
+    "gradient_rms": 4866.238386760539
+  },
+  "calibration_target_mean16": {
+    "mean": 23109.738624572754,
+    "std": 2099.0808037114166,
+    "p10": 20383.09375,
+    "p50": 23122.453125,
+    "p90": 25673.03125,
+    "saturation_fraction": 0.0,
+    "gradient_rms": 2266.229009521834
+  },
+  "brightness_reference_frame": 2795,
+  "log_brightness_slope_per_source_frame": -2.9920832464278275e-05,
+  "log_contrast_slope_per_source_frame": -2.7703182988946497e-05,
+  "brightness_model_note": "Effective brightness and contrast trends fitted on four ROIs windows0..4 only. Temporal checking uses windows5..7 at the same locations; not spatial or animal generalization."
+}

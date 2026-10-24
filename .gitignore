@@ -1,0 +1,16 @@
+.venv/
+.venv-*/
+**/__pycache__/
+*.py[cod]
+*.mex*
+*.o
+*.obj
+.DS_Store
+Thumbs.db
+outputs/
+package_tests/
+*.log
+!**/anatomy/v5_seed21/run.log
+!**/anatomy/v5_seed22/run.log
+!**/anatomy/v5_seed23/run.log
+naomi_zenodo_stage1/reference/roi_*_raw.tif

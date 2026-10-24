@@ -1,0 +1,91 @@
+{
+  "export_integrity_passed": true,
+  "similarity_checks_passed": true,
+  "checks": {
+    "count": {
+      "real": 49.0,
+      "synthetic": 42.0,
+      "relative_error": 0.1428571428571429,
+      "tolerance": 0.25,
+      "passed": true
+    },
+    "diameter_um": {
+      "real": 4.4597850975768285,
+      "synthetic": 4.749655919631888,
+      "relative_error": 0.06499658968154254,
+      "tolerance": 0.2,
+      "passed": true
+    },
+    "nn_um": {
+      "real": 5.132308262486002,
+      "synthetic": 5.431295295828504,
+      "relative_error": 0.058255860336354326,
+      "tolerance": 0.25,
+      "passed": true
+    },
+    "mean": {
+      "real": 22277.83837890625,
+      "synthetic": 22368.743041992188,
+      "relative_error_above_offset": 0.020301014774039672,
+      "tolerance": 0.25,
+      "passed": true
+    },
+    "std": {
+      "real": 2568.0645270932537,
+      "synthetic": 2783.818808352312,
+      "relative_error_above_offset": 0.08401435360476195,
+      "tolerance": 0.25,
+      "passed": true
+    },
+    "p10": {
+      "real": 19155.0,
+      "synthetic": 18909.25,
+      "relative_error_above_offset": 0.18136531365313657,
+      "tolerance": 0.25,
+      "passed": true
+    },
+    "p50": {
+      "real": 21975.75,
+      "synthetic": 22082.5,
+      "relative_error_above_offset": 0.025564269891636293,
+      "tolerance": 0.25,
+      "passed": true
+    },
+    "p90": {
+      "real": 25626.0,
+      "synthetic": 26375.75,
+      "relative_error_above_offset": 0.09580245336059279,
+      "tolerance": 0.25,
+      "passed": true
+    },
+    "gradient_rms": {
+      "real": 4209.6582741649745,
+      "synthetic": 4665.874149258958,
+      "relative_error_above_offset": 0.10837361262642586,
+      "tolerance": 0.25,
+      "passed": true
+    },
+    "saturation_fraction": {
+      "real": 0.003173828125,
+      "synthetic": 0.00244140625,
+      "absolute_error": 0.000732421875,
+      "tolerance": 0.05,
+      "passed": true
+    },
+    "noise_difference_sigma_adu": {
+      "real": 1981.1346869945437,
+      "synthetic": 2230.906000224574,
+      "relative_error": 0.12607487762931613,
+      "tolerance": 0.25,
+      "passed": true
+    }
+  },
+  "real_check_images": 12,
+  "synthetic_check_images": 6,
+  "synthetic_check_anatomies": [
+    22,
+    23
+  ],
+  "independent_anatomy_check": true,
+  "limits": "One fish recording, automated morphology proxies, no expert real masks. These tolerances are engineering targets, not proof of biological realism or segmentation transfer."
+}

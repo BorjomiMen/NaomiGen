@@ -1,0 +1,886 @@
+[
+  {
+    "path": "code\\installNAOMi.m",
+    "sha256": "B5310F07786F7A6F7C39E4B34BA47605616EBB5F6786A3EEE8C7751AAD52D1C4"
+  },
+  {
+    "path": "code\\mex_compiling.m",
+    "sha256": "18D3983DA205EEDAC35B5777A6747D087A2CB0A9083F4B8CCDEE5D290452C880"
+  },
+  {
+    "path": "code\\naomi_octave_setup.m",
+    "sha256": "4B8C97794960AC6D04757ED961BCE43475F90F07499DCF8E2AD8F7D97C12095E"
+  },
+  {
+    "path": "code\\naomi_optical_spacing.m",
+    "sha256": "F82EDCD4D2D832430D65B1B677C058CD4C6401B97132114ECE885AD4BF4BFE7A"
+  },
+  {
+    "path": "code\\naomi_write_stack.m",
+    "sha256": "D4BB4A090DE0A0F83D0B888FC8D889098522768E1008688544206FB2EB75A431"
+  },
+  {
+    "path": "code\\run_naomi_octave.m",
+    "sha256": "218CB745C2C99CDAD33F4562C30FA1DD2171F8F5FB1FC5EFF120E1CB75B731BC"
+  },
+  {
+    "path": "code\\runSingleDataset.m",
+    "sha256": "27D3B94FBB279CF60A14CD767FD290C889BD50F28BB0BB45BDCDC6D713D8A79F"
+  },
+  {
+    "path": "code\\test_naomi_core.m",
+    "sha256": "CD0106C13010C3EE75022923427620DDF388EB37DC61705945F57FBD422487AD"
+  },
+  {
+    "path": "code\\test_naomi_scanner.m",
+    "sha256": "55C4A98D00257B2E70F36B335935282FB5AB8A6299262EE8C447503D1EA909FC"
+  },
+  {
+    "path": "code\\TPM_Simulation_Parameters.m",
+    "sha256": "13D9C9D2CDAAA5351F35BAB554F49E475EFD7A0872CEA0186BC28DE8606740F0"
+  },
+  {
+    "path": "code\\TPM_Simulation_Script_anatomy.m",
+    "sha256": "86DDEEBEB18FFC4D7F3E7560F5281CFA214CE2719112D505433D00119B1AA444"
+  },
+  {
+    "path": "code\\TPM_Simulation_Script_anatomy2.m",
+    "sha256": "6EE5CD15F8922D9879DD135763967A4AD5B38D2BD1C4AC8AEB030D18B2591479"
+  },
+  {
+    "path": "code\\TPM_Simulation_Script_bessel.m",
+    "sha256": "9A8D21D87F98435CEFCEFFB758DB0445CE86B2B9AC89AB08D8BCDC7FE916EC70"
+  },
+  {
+    "path": "code\\TPM_Simulation_Script_Blood_Vessels.m",
+    "sha256": "B10DFA7238472E7EEBD8596DCFB60405A1D224ED0C21B26599F9705E6F400B2B"
+  },
+  {
+    "path": "code\\TPM_Simulation_Script_cylindrical.m",
+    "sha256": "BB0A282A2EC45F6EC9DDAC0F4C355065DB7666D93DFCE33686738BC0840C59CE"
+  },
+  {
+    "path": "code\\TPM_Simulation_Script_deep.m",
+    "sha256": "8DDC46396E08E6CE8C52948406E65DBB9125D2FA602EE456117B458A6E52CA66"
+  },
+  {
+    "path": "code\\TPM_Simulation_Script_gcamp6s.m",
+    "sha256": "679E3F8E96A270FF23ABCC086166298A5A0AE737B28B93731B189C9617FFFBD1"
+  },
+  {
+    "path": "code\\TPM_Simulation_Script_highActivity.m",
+    "sha256": "2F45BDABDA2605DC5DEAC2B16E9B0E22C93C60176B26A370001B99B41EE5462B"
+  },
+  {
+    "path": "code\\TPM_Simulation_Script_layer5.m",
+    "sha256": "42E65BB7D3B8718BFA3DB05F0D6276E4A6AEE88BA20B01636D6B423622997088"
+  },
+  {
+    "path": "code\\TPM_Simulation_Script_lowActivity.m",
+    "sha256": "27743E3DDCD48FAAC42ED3243243E4EE918837D8FD2863548EE604E9AF13C18F"
+  },
+  {
+    "path": "code\\TPM_Simulation_Script_LowRam.m",
+    "sha256": "FA77897FC8BEAE670C7A5919D40EEE0CE0594A99EB6975349CCF416C2DE6E203"
+  },
+  {
+    "path": "code\\TPM_Simulation_Script_misaligned.m",
+    "sha256": "BF3CA26F788C69FA77EFF7F2FD19648A15AD1BEBEB6C54F0B0161411AF2B8EF6"
+  },
+  {
+    "path": "code\\TPM_Simulation_Script_shallow.m",
+    "sha256": "7943CB6DB90AB0D0BAEE9EF8B3C971704197DDBF816AC4F5D5516C10D8C57780"
+  },
+  {
+    "path": "code\\TPM_Simulation_Script_small.m",
+    "sha256": "BE206BB604E3CDEBBACB546676D5346C7C9E1A57F7D491CEC162B056148AC91A"
+  },
+  {
+    "path": "code\\TPM_Simulation_Script_somaOnly.m",
+    "sha256": "755B120255240E2FD45E41722A4A0E472D3F881EC88DA70580AAE24D51291813"
+  },
+  {
+    "path": "code\\TPM_Simulation_Script_sparse.m",
+    "sha256": "F1D53D4AAEAA8246C8C1590F47B9153C067368CFAD10C7241FDBF49E66C1F8C4"
+  },
+  {
+    "path": "code\\TPM_Simulation_Script_standard.m",
+    "sha256": "A0CD428DA37F3732357387E69A1AFF709EB9277511898B56E8AE54640807D153"
+  },
+  {
+    "path": "code\\TPM_Simulation_Script.m",
+    "sha256": "7939C939DD106396CB9FCAEC6EDC531416CAC297E7FC328AAB429CF14E655BBE"
+  },
+  {
+    "path": "code\\verify_naomi_output.m",
+    "sha256": "13EA9493E8156899217F0F6DFCA68E676E82596787A5D7D65882164A51DF8FA5"
+  },
+  {
+    "path": "code\\AnalysisAndPlotting\\plotAlgorithmComparisons.m",
+    "sha256": "43C881D4051F3F67DC045BB80D90B9C5C8B1C47297710FDEBCB68998D24919AD"
+  },
+  {
+    "path": "code\\AnalysisAndPlotting\\script_fitCalciumModel.m",
+    "sha256": "B2052A93F13EAF4E6D90FA9C48F90C78262186AE291A4375F0944C391500FCF2"
+  },
+  {
+    "path": "code\\AnalysisAndPlotting\\scriptRealDataComparison.m",
+    "sha256": "DF3949858DDCD6C77B424E555850B21EEAEE2FCF98DB5ED6C94DD649EFB1922E"
+  },
+  {
+    "path": "code\\experimental\\fn_map.m",
+    "sha256": "8048E3E8676BF21BB960D1F533C2C92B7820F6D66718F78F8F81A4B39A014E95"
+  },
+  {
+    "path": "code\\experimental\\fn_structmerge.m",
+    "sha256": "9D37FD0868BB7A1BE59F4DDB7E19C8E17E0EA10510593DB5E836FE2022AAF25F"
+  },
+  {
+    "path": "code\\experimental\\fn_switch.m",
+    "sha256": "87EC89F1CC39FC88A7BC66FEBEE39139AF7841889E99B5B3608FFFCE4CF26914"
+  },
+  {
+    "path": "code\\experimental\\fn_timevector.m",
+    "sha256": "844E76B199B85B07DCF7CD245EBDC147CF65BF9702F9948A5C56259F677C237E"
+  },
+  {
+    "path": "code\\experimental\\gen_voltage_trace_wrapper.m",
+    "sha256": "56C7789E28772276E26031104FA8E0593AA0137CA11249AD776C14EF5551C7C3"
+  },
+  {
+    "path": "code\\experimental\\row.m",
+    "sha256": "4466BA593254FB4B5FF32E09B038A28E1B4C53DA7D78327BD770B96AA6787CCF"
+  },
+  {
+    "path": "code\\experimental\\spk_calcium.m",
+    "sha256": "073FB619D3FA02670CAB7493C0E60921CA01FC6BABD9A397D9FBFB52E40B6F5B"
+  },
+  {
+    "path": "code\\experimental\\spk_display.m",
+    "sha256": "51DB89558BD7087257D829221940E2BEC96E9543908979345082DBE0CE5E0A42"
+  },
+  {
+    "path": "code\\experimental\\spk_gentrain.m",
+    "sha256": "7B0F30E48D48EA6419A47D9968AECED9EADC4A52816FE92488035F8884BE7BDA"
+  },
+  {
+    "path": "code\\ExternalPackages\\inpaint_nans.m",
+    "sha256": "D2130E93D9602CA17F8CF9E4CD2DEB8D54267BAAB8767FD30EFB1E7E5CB28AEF"
+  },
+  {
+    "path": "code\\ExternalPackages\\intriangulation.m",
+    "sha256": "751EEFB64042DFD4F762854F6B15EA1295AA89B01D11719C926CA9FBA4B2A728"
+  },
+  {
+    "path": "code\\ExternalPackages\\octave_intriangulation_reference.m",
+    "sha256": "44318F95FCABC3DC2B8753A05939DBC06EE5D1547092B4DCE149B65D8D7FCA75"
+  },
+  {
+    "path": "code\\ExternalPackages\\S2_Sampling_Suite\\IcosahedronMesh.m",
+    "sha256": "0131A810CD205BFEC14F39D77EB0BDB25AE60B8C71166F03CA171F3CD9E1480A"
+  },
+  {
+    "path": "code\\ExternalPackages\\S2_Sampling_Suite\\QuadQuad.m",
+    "sha256": "9515E332C3B835A97A8272BADFD9B2CEC17512A2A6CDB5BB3171DB616C3AA3BC"
+  },
+  {
+    "path": "code\\ExternalPackages\\S2_Sampling_Suite\\SpiralSampleSphere.m",
+    "sha256": "A6496595AF14DC931295FD7EC7ED21AF1623107E62E213927753A3DF94B0C75E"
+  },
+  {
+    "path": "code\\ExternalPackages\\S2_Sampling_Suite\\SubdivideSphericalMesh.m",
+    "sha256": "AC89C3E09B6F360506714AF6BEB9E88C1B15271009E0E37E946412B525D9EAE7"
+  },
+  {
+    "path": "code\\ExternalPackages\\S2_Sampling_Suite\\TriQuad.m",
+    "sha256": "33907F2F9859F0F6862B2807A59692D71D797B2AC5C605A0905C3355759FD920"
+  },
+  {
+    "path": "code\\ExternalPackages\\sbmvivo-master\\install_sbmvivo.m",
+    "sha256": "1163AD31BCE4B187EB677074A9DC51641915D30A19C0D6CC5749FDD18D2121DB"
+  },
+  {
+    "path": "code\\ExternalPackages\\sbmvivo-master\\mex\\sbm_cuda\\cuda5s_devicereset.cpp",
+    "sha256": "6BB6E393F6FB96F6C148684CA6D801174674CA8BF03F5E50A3A54AFD7C3B77AD"
+  },
+  {
+    "path": "code\\ExternalPackages\\sbmvivo-master\\mex\\sbm_cuda\\cuda5s_listdevices.cpp",
+    "sha256": "4FDF69D2A86C01FBC08C6A2EACB4E655C31F0ACFE203B3AA8ACA0D269D797B30"
+  },
+  {
+    "path": "code\\ExternalPackages\\sbmvivo-master\\mex\\sbm_cuda\\cuda5s_mex_clear.cpp",
+    "sha256": "B7BE7FF169F73D0B07E0B0E140B9CA46105DBD0F0FEA33101A779E6874D09372"
+  },
+  {
+    "path": "code\\ExternalPackages\\sbmvivo-master\\mex\\sbm_cuda\\cuda5s_mex_configure.cpp",
+    "sha256": "7CB84B7343463A14494DB238CB032DFE986AB3FFB7877F5E1A3A8F25BFCD6F05"
+  },
+  {
+    "path": "code\\ExternalPackages\\sbmvivo-master\\mex\\sbm_cuda\\cuda5s_mex_init.cpp",
+    "sha256": "4E20EF6D55F331260AAAD0C1526793157ED400CB7106D29A1ED2E74E958EDFD5"
+  },
+  {
+    "path": "code\\ExternalPackages\\sbmvivo-master\\mex\\sbm_cuda\\cuda5s_mex.cpp",
+    "sha256": "4E3768F4A575FE0058C38FBAFF63611C606AD6F0927FEE81D8F9FFE9989C256F"
+  },
+  {
+    "path": "code\\GUI\\@gui\\disp_Movie.m",
+    "sha256": "5E917EE2C50E5D9D2BFB9C60DC93568ED5CDB9CB9EF45D2BDFD055E79E45C7AC"
+  },
+  {
+    "path": "code\\GUI\\@gui\\disp_threeDimensional_volume.m",
+    "sha256": "C7303A4045E2C69AB820DBBE4489D032B353A3D37AB9044C0B55B34C2FBD995C"
+  },
+  {
+    "path": "code\\GUI\\@gui\\disp_timeTrace.m",
+    "sha256": "6229E8A71F4F1FFB661C988B229082D336FB98DD91D6C7CC621C902CC315528D"
+  },
+  {
+    "path": "code\\GUI\\@gui\\disp_twoDimensional_volume.m",
+    "sha256": "607ED18D457B3BEAAC1455E86F0CF0032CB00FEEA51452D93AF71843579870C7"
+  },
+  {
+    "path": "code\\GUI\\@gui\\generate_3D_mesh.m",
+    "sha256": "5A4A1096E1F088603A52472F6C8BF39D3568FAAC1C4820B29C1CBC2C3D94066A"
+  },
+  {
+    "path": "code\\GUI\\@gui\\generate_neur_overlay_list.m",
+    "sha256": "CF6B308333A44F8B39B6A4A8C62C4524B467C9DD3D27F808AEBCD2898574411E"
+  },
+  {
+    "path": "code\\GUI\\@gui\\generate_neurloc_images.m",
+    "sha256": "27B43BEE647E3A286FAC1B3513EA97FDFC276DAC71D48E641DE05E239AAD3C60"
+  },
+  {
+    "path": "code\\GUI\\@gui\\gui.m",
+    "sha256": "B67C992076933E810C2D469A083B468253B2AE0474EDD05F3DEA2252FD574C15"
+  },
+  {
+    "path": "code\\GUI\\@gui\\overlay_neuron.m",
+    "sha256": "F068C3D95D59E66CA04AFE08A172593AC9277370ABE1ED25F4B1FF623C35627D"
+  },
+  {
+    "path": "code\\GUI\\@MovieSlider\\findParent.m",
+    "sha256": "96E69B99163037F74ADC34CF12428347F02CC6E98B044D0E736C749768DF7D82"
+  },
+  {
+    "path": "code\\GUI\\@MovieSlider\\makePositionedFigure.m",
+    "sha256": "CD4DAF820F6AEF77EED195531634D64390B172394D1FF6F77BD0961642D185B1"
+  },
+  {
+    "path": "code\\GUI\\@MovieSlider\\MovieSlider.m",
+    "sha256": "7AE796066F39EC466ABD95AAF19961E9962AAAC82EBA1477AEBFE160D3F08A9A"
+  },
+  {
+    "path": "code\\GUI\\@MovieSlider\\parsePath.m",
+    "sha256": "4F6C899D75497CCCA2728C07C19EAC4F34CBD01C05A3E9FD24A00D88DD775E49"
+  },
+  {
+    "path": "code\\GUI\\@MovieSlider\\rangemax.m",
+    "sha256": "F029331F5BC63EEA5073695593F5B02E49B84E8BA08D177DC7E9ADC3737AD137"
+  },
+  {
+    "path": "code\\GUI\\@MovieSlider\\rangemin.m",
+    "sha256": "808764645C507A50E1EDD32918C5C40E265216D6782B08C15BA6DC661E734490"
+  },
+  {
+    "path": "code\\GUI\\@MovieSlider\\rebin.m",
+    "sha256": "BD5CC0F520C6FEBC391915B5715D7101FF5CD87369B518AF35B621598810DB64"
+  },
+  {
+    "path": "code\\GUI\\@MovieSlider\\rectangleCorners.m",
+    "sha256": "76067C8B6E88A402DB62587CCC7205A6C95BC6DB7EFB23AB8B07B02D5287A53E"
+  },
+  {
+    "path": "code\\MEX\\array_SubMod.cpp",
+    "sha256": "3EBF197F14DCC3C729E4C06B3084C25B877714561913CDB28288A5E702005F29"
+  },
+  {
+    "path": "code\\MEX\\array_SubMod.mex",
+    "sha256": "5F782C3F5EF33346839E5F41A1870B7FEF94E5B244BBB6D632E6A231ABE741F6"
+  },
+  {
+    "path": "code\\MEX\\array_SubModTest.cpp",
+    "sha256": "1DAE33677703EBAE0DE2EAD089F2F62C2EFAD84E91B8B915D56841328F0E4A5A"
+  },
+  {
+    "path": "code\\MEX\\array_SubModTest.mex",
+    "sha256": "5FFB988DCE8C2C5274C10C6BC974568FD2325AA333F429B642C0E2830BC36424"
+  },
+  {
+    "path": "code\\MEX\\array_SubSub.cpp",
+    "sha256": "D93CD6EF4472F5C861D5C7248664B075844800586D2A8C3CEEE75295D18CF29B"
+  },
+  {
+    "path": "code\\MEX\\array_SubSub.mex",
+    "sha256": "44986270AA51C8E4A1FE297AC48B0347C73C9C7345668C202F152DD1C14505BD"
+  },
+  {
+    "path": "code\\MEX\\array_SubSubTest.cpp",
+    "sha256": "0DE9CCD8C6738BDD7CBF3FED74B66334EDDB1D507F2619D1BA9A8717EC09B0E6"
+  },
+  {
+    "path": "code\\MEX\\array_SubSubTest.mex",
+    "sha256": "DF552E3D3291EB5D19247492704D6EA10438376D029B23FF08991EF1C457B733"
+  },
+  {
+    "path": "code\\MEX\\dendrite_dijkstra_cpp.cpp",
+    "sha256": "979F411FC34D7DB0B38213D360C74AF92656F1914D5497F14026C96E2C058C01"
+  },
+  {
+    "path": "code\\MEX\\dendrite_dijkstra_cpp.mex",
+    "sha256": "12B08F3DF8C085423B57D5366F8161C3C91B82FB727433C210F8A942162D4A1C"
+  },
+  {
+    "path": "code\\MEX\\dendrite_randomwalk_cpp.cpp",
+    "sha256": "60DCB6405E0438FD6BECC482F737DE28C889BA2D4D770DC5460DD44E2A79B64F"
+  },
+  {
+    "path": "code\\MEX\\dendrite_randomwalk_cpp.mex",
+    "sha256": "2BA8B2EF6839D7E30D1EAE0F15E7AE7766275D75D1AC0481B5B7BEB41D30E44C"
+  },
+  {
+    "path": "code\\MEX\\locate_neighbors.cpp",
+    "sha256": "B7DB757EA01F86854FEE3F0BC839F3D9C75564522E1B07CA343A331595A89AEB"
+  },
+  {
+    "path": "code\\MEX\\locate_neighbors.mex",
+    "sha256": "5C4EEC5900FF7DA4105A2A5D3301F20D4BE56A9E03829BCB021E240B325A60FE"
+  },
+  {
+    "path": "code\\MiscCode\\allFilesOfType.m",
+    "sha256": "FE156EBBDDF9ABB0D62B7C45135DB35497C15AB46FE27C8BD78C8ACF9DC16ECE"
+  },
+  {
+    "path": "code\\MiscCode\\array_SubMod.cpp",
+    "sha256": "8593B0030F105AC7EADB82A2AD353AB4E1853C3A16DEC15F077F4F9419DCD4BF"
+  },
+  {
+    "path": "code\\MiscCode\\comps2ideals.m",
+    "sha256": "5FD5CD61C12957CB7BC3E9CF86C422B5DBBF70F68B1C0EF2A183F77572CE3A6C"
+  },
+  {
+    "path": "code\\MiscCode\\constrainEstToSomas.m",
+    "sha256": "DE3684DED945F4BC1997A564D9C44F7928BD6785CFE734FB9DEF4298044E8D23"
+  },
+  {
+    "path": "code\\MiscCode\\correlateAllSegmentations.m",
+    "sha256": "C65DDF28B3216C1F0AA9C9FFB6CF4562C5D28AFE435EA6CCB19E02CFC2CF554D"
+  },
+  {
+    "path": "code\\MiscCode\\corrTimeAndSpace.m",
+    "sha256": "580072EF25C0A20BEC86F30F956F522ABA2C5BC852E989764CC4BF71CEEC854F"
+  },
+  {
+    "path": "code\\MiscCode\\displayPairingStatistics.m",
+    "sha256": "27429E6EBFCFA2ABC69A03BC1657A2A94E10D3258F89B1DD784BAF96841B1AF0"
+  },
+  {
+    "path": "code\\MiscCode\\displaySomaPairingStatistics.m",
+    "sha256": "3DFF83EAFE73864138F04586257C6828CB70D12695609872D95364BDF42E15DB"
+  },
+  {
+    "path": "code\\MiscCode\\findDoubleProfiles.m",
+    "sha256": "76051E0FDDBDDA514A46ED1E42C71DE27A4E3FAE57B8979DD65671F0A372537D"
+  },
+  {
+    "path": "code\\MiscCode\\fireprint.m",
+    "sha256": "31C0D250019EAB9C512054F1CE37D0221EC3C6B60B5E5150B162540D074B2B55"
+  },
+  {
+    "path": "code\\MiscCode\\fit_NAOMi_calcium.m",
+    "sha256": "BC8D1C8BFC3C24245B3208D460CA644531F3F2D362C6E4FE42CF11B5BEFCE2A7"
+  },
+  {
+    "path": "code\\MiscCode\\genAlgorithmPairROC.m",
+    "sha256": "B830E0B9078853E0255B47EEA5AE63C2B66BEF9F9B8AF5198AD242259D087C38"
+  },
+  {
+    "path": "code\\MiscCode\\halfSampleMode.cpp",
+    "sha256": "693CA41386ED82DBEA2DF97D855CB5CFAE770FC2910B792C65A8BFCA69DE0205"
+  },
+  {
+    "path": "code\\MiscCode\\isolateVisibleSomas.m",
+    "sha256": "DB407E341A99A06DD7E76E8EC4010C839D5E64133F06BAF6F8FA414C60CB0F2C"
+  },
+  {
+    "path": "code\\MiscCode\\make_avi.m",
+    "sha256": "156BF118F19E136F1748FD45CD782C8FFAC5AA18050B4C517A09ED1D1DECC09A"
+  },
+  {
+    "path": "code\\MiscCode\\masked_3DGP_test.m",
+    "sha256": "41CEB38791A99965727EF3D1295D6AF7EC772DF19A6DC119A564CB247BD4AF60"
+  },
+  {
+    "path": "code\\MiscCode\\masked_3DGP_v2.m",
+    "sha256": "1F0FE1A1C97219C69900691CE3F7C28B9CD7B3BC3B1F7E77537B175514703281"
+  },
+  {
+    "path": "code\\MiscCode\\mk_doub_exp_ker.m",
+    "sha256": "B3AB093D35BE5575C1917D763A58D0B587A1C29B6303041A07E58ECA11672C5B"
+  },
+  {
+    "path": "code\\MiscCode\\multiBoundaryImage.m",
+    "sha256": "F620A6985D8B66C684D24F0AD247D5BACACE7CD4D4070501D78487F21F353FFB"
+  },
+  {
+    "path": "code\\MiscCode\\nearest_small_prime.m",
+    "sha256": "1464ACE5992EE4E71AB52CB4B7C4AEC8A9D40AACE359140229623F26481A454B"
+  },
+  {
+    "path": "code\\MiscCode\\pos2dists.m",
+    "sha256": "655F8FB52028BABF1402F18F196E4AA941378F5017D85E47C121251C36FF75BF"
+  },
+  {
+    "path": "code\\MiscCode\\profile2params.m",
+    "sha256": "AA42B0635ADF2653843910794A4D3396861F3AAA5200A0F29CF8A6E8A69622D0"
+  },
+  {
+    "path": "code\\MiscCode\\reSampleMovie.m",
+    "sha256": "0F90A6CA06468AF49339124485A5E2492C6FB5E17CFD3FE6EBAB01B7C05CA148"
+  },
+  {
+    "path": "code\\MiscCode\\sampSmallWorldMat.m",
+    "sha256": "B20C90EDD19F17360DC30F7AA25338F6B747F8FFDFC1AF2B9D33055C4CE6EF84"
+  },
+  {
+    "path": "code\\MiscCode\\saveSimulationParts.m",
+    "sha256": "B7643BCEA007FD9E836375CA10AB020579830354A5C1128B2D3D41505B394EEC"
+  },
+  {
+    "path": "code\\MiscCode\\separateByCorrelation.m",
+    "sha256": "912AD604C83FE3A8349F9E0B66371143F9C7E5616F38C0CE926BCA7E9A027F13"
+  },
+  {
+    "path": "code\\MiscCode\\separateIdealByCorrelation.m",
+    "sha256": "FE4B45DC9CA45ACFF8FCB7B2BEE26B249F86830E6778FEF33D8AE79AF2B4BFB3"
+  },
+  {
+    "path": "code\\MiscCode\\setParams.m",
+    "sha256": "57EF1FAF753153577E513DC383C97B6AA7FC07E67948BA7170FA576BBE644339"
+  },
+  {
+    "path": "code\\MiscCode\\spikesCellToVec.m",
+    "sha256": "444D5E7E07B482F8AC8421BB76DD7EC7281E7B711BEB6A3C010E138553B99C88"
+  },
+  {
+    "path": "code\\MiscCode\\subIndexImages.m",
+    "sha256": "4A0F5F51D05B1071C19448D43BAA7EC90DFC64C553DF11917B308BECE792CC37"
+  },
+  {
+    "path": "code\\MiscCode\\teardrop_poj.m",
+    "sha256": "D40DD1597B9C7928FD4EDEB26579272AE64A9AC3DC0F32FDED1DA477A84E6422"
+  },
+  {
+    "path": "code\\MiscCode\\tifappend.m",
+    "sha256": "DDEBCD3EC7B7B138028A249F2CEC60F72774CDCC8D1A06300C4ADF353943239B"
+  },
+  {
+    "path": "code\\MiscCode\\tiff_reader.m",
+    "sha256": "CBF14ADC7543B829E3F5A020FC8F44556EA8950671FD17EF8C486092BC58D25D"
+  },
+  {
+    "path": "code\\MiscCode\\tiff_writer.m",
+    "sha256": "BD6926E78CC66D822743326AD748E3B495E1024B336A5BC90AE67A712036D340"
+  },
+  {
+    "path": "code\\MiscCode\\tifinitialize.m",
+    "sha256": "48B2B24FAEF4663261072E218F10970982602AEEF635D11C958F7409E3FCC8B3"
+  },
+  {
+    "path": "code\\MiscCode\\tifread.m",
+    "sha256": "EA6665AD1E4C5C3BCFBC4CBCD39D9DF40BF70BA63ECA1C2D2B30EF98FF48DEC3"
+  },
+  {
+    "path": "code\\MiscCode\\tifwrite.m",
+    "sha256": "A1B84F5DF11E6727B9E62ACDE10C29CAB6BC89802C6B80BCF725E5931E3526DC"
+  },
+  {
+    "path": "code\\MiscCode\\tifwriteblock.m",
+    "sha256": "C94F896197793F8E35D242356706A0A36713A445E4BE0E53413B10B70A65A016"
+  },
+  {
+    "path": "code\\MiscCode\\times_from_profs.m",
+    "sha256": "3D4B91A66758333CB09294409050ECB71A1B29C86434BA83657938D8F133BD17"
+  },
+  {
+    "path": "code\\MiscCode\\vec.m",
+    "sha256": "FAE55ABFD44791C6314CA23E862019DDECC53738ADE1B18FF40C4514EFFA673F"
+  },
+  {
+    "path": "code\\MiscCode\\veclinspace.m",
+    "sha256": "211B98E9701A0AB29216EE410F2DA7A1A87BA30F14C2DAA47662C6AFF9F2D829"
+  },
+  {
+    "path": "code\\MiscCode\\write_TPM_movie.m",
+    "sha256": "2DB286B58EA478494E192A8113D13C2703954A45646C3B81C573C43E1F634ED5"
+  },
+  {
+    "path": "code\\MiscCode\\correlations_from_vtwins\\autocrop.m",
+    "sha256": "5210F700F703A7128B097A0930ADC2159331B141A3A6734D0F1FC7956096D908"
+  },
+  {
+    "path": "code\\MiscCode\\correlations_from_vtwins\\countprint.m",
+    "sha256": "A28EFDB19CC1F2EFE8DEB6BA7AA6C3242E1FE0314C8C9CD393665E1F7F90B02A"
+  },
+  {
+    "path": "code\\OctaveCompat\\cscvn.m",
+    "sha256": "1AF53C8D3A0C2289790ACB72256E4113D049FDE49073C51D5BBAA4A8FB491585"
+  },
+  {
+    "path": "code\\OctaveCompat\\fnval.m",
+    "sha256": "65DF06CA4382267DE92EC10493D57698735C1F21713E1A45E3884ED095055F70"
+  },
+  {
+    "path": "code\\OpticsCode\\applyTemporalFocusing.m",
+    "sha256": "68EEAEE0A67B0A014A14CCC93FD270684980A3724E94507DEE84999328524CC7"
+  },
+  {
+    "path": "code\\OpticsCode\\applyZernike.m",
+    "sha256": "E2F77193311F46CE12B4A09CBEE19DEA6B2C36686AA87B0FE9358E35F65D337C"
+  },
+  {
+    "path": "code\\OpticsCode\\check_psf_params.m",
+    "sha256": "2EE2E02F05237996CA075222D2A14A65A658445F09BC447BDC10C4697A9EC231"
+  },
+  {
+    "path": "code\\OpticsCode\\check_tpm_params.m",
+    "sha256": "CCB4C51E755D2DF49910A31A6DE7B32FD17B241B1C5A79331094A4D5EC60633C"
+  },
+  {
+    "path": "code\\OpticsCode\\fresnel_propagation_multi.m",
+    "sha256": "59F3ECE7AE006919178C387A51EBE66EA100F65F19AEF96D9662A4A8158CB8D6"
+  },
+  {
+    "path": "code\\OpticsCode\\gaussian_psf_na.m",
+    "sha256": "F7BE62342FA83546F6A2280B54EA5FC1528BF8C907901699C8170DDDE1959158"
+  },
+  {
+    "path": "code\\OpticsCode\\gaussian_psf.m",
+    "sha256": "27E29F17FE8BCAFCA68C29081F4F4BA70F599115525965C8098B44346D5594A4"
+  },
+  {
+    "path": "code\\OpticsCode\\gaussianBeamSize.m",
+    "sha256": "F5ABB740A6FD2FE045D06E83D0E91020BEE521E44BC6A11AF8F963731F0BFDB2"
+  },
+  {
+    "path": "code\\OpticsCode\\genCorticalLightPath.m",
+    "sha256": "562899C7715D74D3980EA960FE07CC2A2393A6A20EA740CDC2F30D687E4E846E"
+  },
+  {
+    "path": "code\\OpticsCode\\genCorticalLightPathLite.m",
+    "sha256": "3D3DD925814BA5456E859A8B5AEE641CDE268E4E042A5C990F54B014A90F7D51"
+  },
+  {
+    "path": "code\\OpticsCode\\generateBA.m",
+    "sha256": "0C2CCC9E8F2362F57D616D16F95FD5370FE11CA169D236BFD08C5E38E7678C25"
+  },
+  {
+    "path": "code\\OpticsCode\\generateBesselBA.m",
+    "sha256": "F4F3936A72ADBBD516D05EAEEA2F41705049C8AEBBE0A5C88C58DB9BE74CFE99"
+  },
+  {
+    "path": "code\\OpticsCode\\generateBesselProfile.m",
+    "sha256": "B284EEAF829BD18213619F2A5ED525BE047FDE9DAFE7F1EEB6776BA3AE9F25B4"
+  },
+  {
+    "path": "code\\OpticsCode\\generateCylindricalBA.m",
+    "sha256": "57EF6BAA3963754AFE50BD1C2574EFA13C52793010837A30B057FA1587B3E6FF"
+  },
+  {
+    "path": "code\\OpticsCode\\generateGaussianProfile.m",
+    "sha256": "D72389861B1D754AA936886D0A9CCFBD24B64140F225855F72602BBAC497B13F"
+  },
+  {
+    "path": "code\\OpticsCode\\generateVtwinsBA.m",
+    "sha256": "6C465AF2F6ED1115C892542A4D052FD58C900585EC5D1FAA88F92781DFA6F254"
+  },
+  {
+    "path": "code\\OpticsCode\\generateZernike.m",
+    "sha256": "F3B26BE27BF1D0529A329CFD00208AA1A58ED63AFB724B574244CFD0281AC4E4"
+  },
+  {
+    "path": "code\\OpticsCode\\getDefaultPSFParams.m",
+    "sha256": "47A01D7CB51F5F719EE8F6A432FB61A80D187BE25D647AAE5ECA5134907B8CDF"
+  },
+  {
+    "path": "code\\OpticsCode\\groupzproject.m",
+    "sha256": "44C09AD149032BC572B770B2C6F195E5589B27C462424E8E16767EACAFDDEC79"
+  },
+  {
+    "path": "code\\OpticsCode\\setOpticalParams.m",
+    "sha256": "513A0B9C5EC568FA16D092DE2BABEA07B2FC8613E92C0F7FD147217EDAC85E02"
+  },
+  {
+    "path": "code\\OpticsCode\\simulate_optical_propagation.m",
+    "sha256": "DFB32BD9B21C39EA70980374115B985D7CECDF46EFA267E15D2971546EB629AD"
+  },
+  {
+    "path": "code\\OpticsCode\\simulate_optical_propagation2.m",
+    "sha256": "E3929E28CC4D753D240C8229197BF72960CA27DF606C341A36B41D658EC8E936"
+  },
+  {
+    "path": "code\\OpticsCode\\tpmSignalscale.m",
+    "sha256": "4A91E516C76C8763AF4C858DB9A3D2DB51743DD2EE1000BBC03B2E1AE983C9CB"
+  },
+  {
+    "path": "code\\OpticsCode\\widthestimate.m",
+    "sha256": "F465C7079CC0D00E4B69D377DBAA8E5610FB3D0A64827F42B628B52FBCE80B26"
+  },
+  {
+    "path": "code\\OpticsCode\\widthestimate3D.m",
+    "sha256": "5DB31BD277B20D62448E65CAA6F7E1C118D0083E03520DB873E8708BC5466836"
+  },
+  {
+    "path": "code\\OpticsCode\\zernike.m",
+    "sha256": "05E9AF0C558E1D5D71D186E23A885687117946EFF84421BAD54E4FD27831D9AA"
+  },
+  {
+    "path": "code\\ScanningCode\\applyNoiseModel.m",
+    "sha256": "D83AE1463A80C570E492BBBBF60549ACB234AA3708FD19522CA306CAF35293FC"
+  },
+  {
+    "path": "code\\ScanningCode\\blurredBackComp2.m",
+    "sha256": "4B21BB81711E8DB1F08AA0299695D77B861BD308617D924948DD4AABE35F5AD1"
+  },
+  {
+    "path": "code\\ScanningCode\\calculateIdealComps.m",
+    "sha256": "CCEF4B909980408691996A1A112C46A07AE15451DFFE0737F7E1C8776A6566F3"
+  },
+  {
+    "path": "code\\ScanningCode\\check_noise_params.m",
+    "sha256": "A9CEF018567627F469B722E41E357A16232DC504202EF235561D067F015850B7"
+  },
+  {
+    "path": "code\\ScanningCode\\check_scan_params.m",
+    "sha256": "E22B27B5AA79B6EA339AFC11C42A1A9EE83EFEDB5B8AA0F7EB076BC772ED9D57"
+  },
+  {
+    "path": "code\\ScanningCode\\imgSubRowShift.m",
+    "sha256": "767C61719D50F81D66167D3063109D765A0D0A4D07D9C50F4C3B7BFAF64AE082"
+  },
+  {
+    "path": "code\\ScanningCode\\pixel_bleed.m",
+    "sha256": "80EFDFE6DD3E39E7DA7A71B4DF717F6B1F1BEBD30424CBCB754E841F9899AE58"
+  },
+  {
+    "path": "code\\ScanningCode\\PoissonGaussNoiseModel.m",
+    "sha256": "8F81A1E75AC72121DB2C70CF73416BD809BC39F477052CF7D3594B3534388C15"
+  },
+  {
+    "path": "code\\ScanningCode\\psf_fft.m",
+    "sha256": "C9908F8C926042DB1B69050B022BD40EF7252BEF983D628F169C8BF2881D84D6"
+  },
+  {
+    "path": "code\\ScanningCode\\scan_ideal.m",
+    "sha256": "018E071BD5DB99A394A25298CC9B1E88526380431D11C1C09BC6D966E1AA153A"
+  },
+  {
+    "path": "code\\ScanningCode\\scan_volume_frame.m",
+    "sha256": "0BBE345D45C84C120D8AFC064743A097D5EB79D3BA3E905F71E9ABBE0D9B9E1C"
+  },
+  {
+    "path": "code\\ScanningCode\\scan_volume.m",
+    "sha256": "CB730B16C427462ECAC363488BC3109AF7F84EC43F55FB6C5606C2BD2F340978"
+  },
+  {
+    "path": "code\\ScanningCode\\setup_scan_volume_frame.m",
+    "sha256": "95DF5FE217565825D9BC77536DF37765F26F7B286D50B1A7D27388DA815DB7D6"
+  },
+  {
+    "path": "code\\ScanningCode\\single_scan.m",
+    "sha256": "1D26CF53A5658700F354E78CB2895FD828CA127526E868D51BAAE2777410D9AA"
+  },
+  {
+    "path": "code\\TimeTraceCode\\binSpikeTrains.m",
+    "sha256": "73BA259BE5A378828E29C3F1EA079C6E063DE8C96A21543AC882B8883ED7EFA2"
+  },
+  {
+    "path": "code\\TimeTraceCode\\calcium_dynamics.m",
+    "sha256": "7AE4E4083C846B8A5DD77AFB96C44201C47D21C069C8B4F21728A15368324F64"
+  },
+  {
+    "path": "code\\TimeTraceCode\\check_cal_params.m",
+    "sha256": "36E3BDD0BB18AF1959E13C701F7C0DD925480482AB5350B2A7EED40AA2BD6FCE"
+  },
+  {
+    "path": "code\\TimeTraceCode\\check_spike_opts.m",
+    "sha256": "A5FF2795480D17BD90A4EF2FF04FC30F16B43B97B7547EDE28A1AD123CA45241"
+  },
+  {
+    "path": "code\\TimeTraceCode\\expression_variation.m",
+    "sha256": "85162C6C4A9201F51FDBF6DEEDE9D584013047F981B49235A6CC5F5BF62DC6FB"
+  },
+  {
+    "path": "code\\TimeTraceCode\\gen_burst_spike_times.m",
+    "sha256": "74A4DFA6C41026A9CEACF521C575A768C68190F5D605CB887A6CA5E42F93571D"
+  },
+  {
+    "path": "code\\TimeTraceCode\\genCorrelatedSpikeTrains2.m",
+    "sha256": "8882DAB277E0797CA78E6EBA258B807B96453AF68FA317767C56226D52CA2714"
+  },
+  {
+    "path": "code\\TimeTraceCode\\generateNextTimePoint.m",
+    "sha256": "86DFC37195EE9D216D3DB360BD2D77DB86167FE6A5842D40827B675739E348AC"
+  },
+  {
+    "path": "code\\TimeTraceCode\\generateTimeTraces.m",
+    "sha256": "DC5FB2A4F4571411710A0A3D732943E53E7D0B801D139B8A50E3DBB84E82C08D"
+  },
+  {
+    "path": "code\\TimeTraceCode\\genNextCalciumDynamics.m",
+    "sha256": "C7AA64F576540CC16066D7AD671D9C1E4D84CD1C2F1FFB7CA56F702A08A9FEBD"
+  },
+  {
+    "path": "code\\TimeTraceCode\\genNextSpikeTimepoint.m",
+    "sha256": "6767EEF34C40559FFBF96DD30EDC3C3C822D721ECADEFB40B07520A07BFE580A"
+  },
+  {
+    "path": "code\\TimeTraceCode\\make_calcium_impulse.m",
+    "sha256": "5FBB3DC3FA043DF6AB3E2160DB9C12A8A89A198172C839F59CB41AD2A2098602"
+  },
+  {
+    "path": "code\\TimeTraceCode\\markpointproc.m",
+    "sha256": "963354728BAF53BD0866A54100F9172BF124D67420F0FBF4BC237F95BA46BF8B"
+  },
+  {
+    "path": "code\\VolumeCode\\branchGrowNodes.m",
+    "sha256": "A8954A30C1EA47BBA4ACE841DBFC40577802206F1FABB6A49D52611EB884B332"
+  },
+  {
+    "path": "code\\VolumeCode\\check_axon_params.m",
+    "sha256": "09F79EAEB11F102C4844BE96515AEA9071FCF19A0D861BE88DA15C5816FF9CBC"
+  },
+  {
+    "path": "code\\VolumeCode\\check_bg_params.m",
+    "sha256": "08C697608D7649830AC6A6DA0AE590944BF2485D85C2B5F4C2088422037DCE11"
+  },
+  {
+    "path": "code\\VolumeCode\\check_dend_params.m",
+    "sha256": "914DD1A44593ABC103D447034BC0031DE7D945BD36C40AE10250BC2E58A30BE9"
+  },
+  {
+    "path": "code\\VolumeCode\\check_neur_params.m",
+    "sha256": "1B28D04D19917C9A19CE3800F3A631F6482FD1ADDE3F998C71B0E540DABEE663"
+  },
+  {
+    "path": "code\\VolumeCode\\check_vasc_params.m",
+    "sha256": "C39CE055A35020D39B8AFC724CB74B2E9F0DFDDE8AE75CEA654DFE2C1E0405A3"
+  },
+  {
+    "path": "code\\VolumeCode\\check_vol_params.m",
+    "sha256": "F45E618A6A0D7B9A7F0F012550F6AE198E3F8E4CD9167A65A3E531B23AA73FC8"
+  },
+  {
+    "path": "code\\VolumeCode\\connToVol.m",
+    "sha256": "A6EEFC6B73E626D1DB3F4547F843F50E9351EC4ACEFBDE4B21EDFDB0E7BA9846"
+  },
+  {
+    "path": "code\\VolumeCode\\delnode.m",
+    "sha256": "FD498A7852FBCF0A8D30E8EA1131436B2037842785AB5DEE3343ACD05EE884C9"
+  },
+  {
+    "path": "code\\VolumeCode\\dendrite_dijkstra2.m",
+    "sha256": "04B520ACE61C1E2E34120ACFF4F67845AA83118649CED2BF81D4AA24FB2F7898"
+  },
+  {
+    "path": "code\\VolumeCode\\dendrite_randomwalk2.m",
+    "sha256": "C6369BACE6C709818FB9960D06E8C1E1390A66A72E0E88E69FFCDDE492FF675C"
+  },
+  {
+    "path": "code\\VolumeCode\\dilateDendritePathAll.m",
+    "sha256": "FC9E214C73A632945BA852E2FFABE4AD576FCDCF4F85EE48BA5A307DB2CA7ACD"
+  },
+  {
+    "path": "code\\VolumeCode\\genconn.m",
+    "sha256": "ADDD52C2366FF3FD79B8E8AEC45872EB8E535793552164A1AAB4F41A9FE379CE"
+  },
+  {
+    "path": "code\\VolumeCode\\generate_axons.m",
+    "sha256": "E7A0017DC24161880884CDADFDC0C3247D6C6087318E8CB7A73F4A043516A772"
+  },
+  {
+    "path": "code\\VolumeCode\\generate_bgdendrites.m",
+    "sha256": "8C2F72EB3917FCDF722D9745DA92CA55E703EF889DC43D717D32CDFEBFE1F948"
+  },
+  {
+    "path": "code\\VolumeCode\\generateNeuralBody.m",
+    "sha256": "03A504C40EAE306851E57C45773E6BC398CFD572BB368F51C4E5310030196A7C"
+  },
+  {
+    "path": "code\\VolumeCode\\generateNeuralVolume.m",
+    "sha256": "B4703D8C65AD6838A12B880F208DC7F1AD20E8559BF53AA601E16B34EC6C0503"
+  },
+  {
+    "path": "code\\VolumeCode\\gennode.m",
+    "sha256": "AE773E211280165AFC7BA625D0DFC5D21B0DFEE2D251D8454DEE1D8F10C2DA19"
+  },
+  {
+    "path": "code\\VolumeCode\\getDendritePath2.m",
+    "sha256": "01C3628F476826CDBEC799BB48455B8FFECD5994ABC1A9E40EB1A8D278D79AED"
+  },
+  {
+    "path": "code\\VolumeCode\\growApicalDendrites.m",
+    "sha256": "64594844657A911805E99E1D366717AB55B26077D00A970E0F0D8C08E8B4D0D1"
+  },
+  {
+    "path": "code\\VolumeCode\\growCapillaries.m",
+    "sha256": "85BB462C19ADBBE61AC3AF6B0C721DD2CD074A5A3BF5B9D2C87120008A6D515C"
+  },
+  {
+    "path": "code\\VolumeCode\\growMajorVessels.m",
+    "sha256": "DD4498DD0B08FFBBE953B778EEF6887E59EB689EE5F079188F3D796D91438C9D"
+  },
+  {
+    "path": "code\\VolumeCode\\growNeuronDendrites.m",
+    "sha256": "71E671E82147F5EB30D6A6DB46863BD40088FC8AA265599AF887CA567A964E6D"
+  },
+  {
+    "path": "code\\VolumeCode\\nodesToConn.m",
+    "sha256": "C119C466B9E01F709F8AF0881AA121B68718B299FEA0BB9BD5E4AA8FE7412885"
+  },
+  {
+    "path": "code\\VolumeCode\\pseudoRandSample2D.m",
+    "sha256": "5B010AB0ABBA0C6801E26858118EAC995C3077E669984F0B9FA051FCD37FF41D"
+  },
+  {
+    "path": "code\\VolumeCode\\pseudoRandSample3D.m",
+    "sha256": "5A114FEDABAC23E87F0F21ED219ED1DF056218F925BFCB311EF1180A9314390D"
+  },
+  {
+    "path": "code\\VolumeCode\\resampVolume.m",
+    "sha256": "FDAC70C1189072B91B2D95E801249FB02B1D6B385EBEA5D311F7830F6FEB2AA6"
+  },
+  {
+    "path": "code\\VolumeCode\\sampleDenseNeurons.m",
+    "sha256": "72D1E0536825A88C80EDF7305B88A336B5DD691A7BDCAA3303498240448CCA74"
+  },
+  {
+    "path": "code\\VolumeCode\\setCellFluoresence.m",
+    "sha256": "5187012639BD27368B528526223A31BC6FC30124AD3ED53D207C8C494C5A7771"
+  },
+  {
+    "path": "code\\VolumeCode\\simulate_neural_volume_lowram.m",
+    "sha256": "8F8C6CD200A06411D9D4A6513D538076F45737F20E0F08F3516644EC9F7B9B68"
+  },
+  {
+    "path": "code\\VolumeCode\\simulate_neural_volume.m",
+    "sha256": "02617C24AD3EC3B98C18FE19BAC18E153CFA5EB92C8056900CB1EBF9126D8130"
+  },
+  {
+    "path": "code\\VolumeCode\\simulatebloodvessels.m",
+    "sha256": "786E9630274832830D2EDEA024FA39EF5094E85CAD0593AAE4996CB579F6D826"
+  },
+  {
+    "path": "code\\VolumeCode\\smoothCellBody.m",
+    "sha256": "0C34E0303CE9783E5B71245816D782904577452795E165CEB6954B28AC69594B"
+  },
+  {
+    "path": "code\\VolumeCode\\sort_axons.m",
+    "sha256": "F83CFA04B5B4E658EE261C6425AD91571FA54E98B3AE140E5BE3B1302ACB0F23"
+  },
+  {
+    "path": "code\\VolumeCode\\vessel_dijkstra.m",
+    "sha256": "BE3B8F52D9E7D784B0858AFBE33C7499055E2901949C51226E50C5A48F6DBBAB"
+  }
+]

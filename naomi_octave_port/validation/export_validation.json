@@ -1,0 +1,31 @@
+{
+  "passed": true,
+  "reader": "Pillow, NumPy, FFprobe",
+  "tiff_frames": 300,
+  "frame_shape": [
+    70,
+    70
+  ],
+  "avi": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "mpeg4",
+        "width": 70,
+        "height": 70,
+        "r_frame_rate": "15/1",
+        "nb_read_frames": "300"
+      }
+    ],
+    "format": {
+      "duration": "20.000000"
+    }
+  },
+  "sha256": {
+    "simulation_result.mat": "71e57b248bd19ef3f417589175d76a63bda8de2a0d6abcd19adc39cf0efbfe88",
+    "activity_noisy.tif": "5b02562a0da4bf3bfd30ab9b6fe48e36970ad0da73f416cd0a88b1ab05dee94b",
+    "activity_clean.tif": "9194ce864868c343265f695e149b4076dfade74e310386d99478401563af6524",
+    "activity_noisy.avi": "c93265318ff36d251f091db1d6833e922b97341f6f28de57e3450158ae046c08",
+    "preview.png": "acda9e4e44047e87e30c9a8326eca5b6f42aa13edd5631af458a2ea66a513134"
+  }
+}
