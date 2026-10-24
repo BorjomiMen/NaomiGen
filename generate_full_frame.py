@@ -333,9 +333,7 @@ def comparison(output, name, real, noisy, clean, ids):
     from skimage.segmentation import find_boundaries
     def display(z):
         return np.uint8(np.clip((z.astype(float)-17800)/(32767-17800), 0, 1)*255)
-    font_path = ROOT / "naomi_zenodo_stage1/runtime_paths.py"
-    sys.path.insert(0, str(font_path.parent))
-    from runtime_paths import plot_font
+    from naomi_zenodo_stage1.runtime_paths import plot_font
     panels = [real[0], noisy[0], clean]
     canvas = Image.new("RGB", (485*3+40, 450), "white")
     draw = ImageDraw.Draw(canvas)
